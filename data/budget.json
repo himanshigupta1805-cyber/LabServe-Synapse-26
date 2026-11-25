@@ -1,0 +1,6 @@
+{
+  "Assembly": { "total": 500000, "spent": 125000, "pending": 0 },
+  "Quality":  { "total": 200000, "spent": 45000,  "pending": 0 },
+  "Logistics":{ "total": 150000, "spent": 60000,  "pending": 0 },
+  "Maintenance":{ "total": 100000, "spent": 30000, "pending": 0 }
+}

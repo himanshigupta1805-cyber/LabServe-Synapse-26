@@ -1,0 +1,122 @@
+[
+  {
+    "part_id": "SYN-001",
+    "name": "Neural Processor Unit",
+    "category": "electronics",
+    "quantity": 15,
+    "unit_cost": 4500,
+    "min_clearance": 3,
+    "location": "Bay-A",
+    "substitutes": ["SYN-006"]
+  },
+  {
+    "part_id": "SYN-002",
+    "name": "Titanium Endoskeleton Frame",
+    "category": "structural",
+    "quantity": 8,
+    "unit_cost": 12000,
+    "min_clearance": 2,
+    "location": "Bay-B",
+    "substitutes": []
+  },
+  {
+    "part_id": "SYN-003",
+    "name": "Synthetic Skin Membrane",
+    "category": "biotech",
+    "quantity": 25,
+    "unit_cost": 800,
+    "min_clearance": 1,
+    "location": "Bay-A",
+    "substitutes": []
+  },
+  {
+    "part_id": "SYN-004",
+    "name": "Optical Sensor Array",
+    "category": "electronics",
+    "quantity": 12,
+    "unit_cost": 3200,
+    "min_clearance": 2,
+    "location": "Bay-C",
+    "substitutes": ["SYN-008"]
+  },
+  {
+    "part_id": "SYN-005",
+    "name": "Micro Hydraulic Actuator",
+    "category": "mechanical",
+    "quantity": 30,
+    "unit_cost": 1500,
+    "min_clearance": 1,
+    "location": "Bay-B",
+    "substitutes": ["SYN-009"]
+  },
+  {
+    "part_id": "SYN-006",
+    "name": "Voice Synthesis Module",
+    "category": "electronics",
+    "quantity": 10,
+    "unit_cost": 2800,
+    "min_clearance": 2,
+    "location": "Bay-A",
+    "substitutes": ["SYN-001"]
+  },
+  {
+    "part_id": "SYN-007",
+    "name": "Memory Core 128TB",
+    "category": "electronics",
+    "quantity": 5,
+    "unit_cost": 9500,
+    "min_clearance": 4,
+    "location": "Bay-C",
+    "substitutes": []
+  },
+  {
+    "part_id": "SYN-008",
+    "name": "Biometric Scanner",
+    "category": "security",
+    "quantity": 20,
+    "unit_cost": 1800,
+    "min_clearance": 3,
+    "location": "Bay-A",
+    "substitutes": ["SYN-004"]
+  },
+  {
+    "part_id": "SYN-009",
+    "name": "Polymer Joint Assembly",
+    "category": "mechanical",
+    "quantity": 40,
+    "unit_cost": 600,
+    "min_clearance": 1,
+    "location": "Bay-B",
+    "substitutes": ["SYN-005"]
+  },
+  {
+    "part_id": "SYN-010",
+    "name": "Power Cell MK-IV",
+    "category": "power",
+    "quantity": 18,
+    "unit_cost": 3800,
+    "min_clearance": 2,
+    "location": "Bay-C",
+    "substitutes": []
+  },
+  {
+    "part_id": "SYN-011",
+    "name": "Cognitive Behavior Chip",
+    "category": "electronics",
+    "quantity": 3,
+    "unit_cost": 15000,
+    "min_clearance": 5,
+    "location": "Bay-C",
+    "substitutes": []
+  },
+  {
+    "part_id": "SYN-012",
+    "name": "Coolant Circulation Pump",
+    "category": "mechanical",
+    "quantity": 22,
+    "unit_cost": 950,
+    "min_clearance": 1,
+    "location": "Bay-B",
+    "substitutes": ["SYN-005"]
+  }
+]

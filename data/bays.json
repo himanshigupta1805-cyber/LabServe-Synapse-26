@@ -1,0 +1,34 @@
+[
+  {
+    "bay_id": "Bay-A",
+    "type": "electronics",
+    "capacity": 3,
+    "booked_slots": [],
+    "equipment": ["soldering_station", "oscilloscope", "clean_room"],
+    "compatible_categories": ["electronics", "security", "biotech"]
+  },
+  {
+    "bay_id": "Bay-B",
+    "type": "mechanical",
+    "capacity": 2,
+    "booked_slots": [],
+    "equipment": ["cnc_mill", "hydraulic_press", "welding_rig"],
+    "compatible_categories": ["mechanical", "structural"]
+  },
+  {
+    "bay_id": "Bay-C",
+    "type": "specialized",
+    "capacity": 1,
+    "booked_slots": [],
+    "equipment": ["neural_calibrator", "quantum_aligner", "clean_room"],
+    "compatible_categories": ["electronics", "power"]
+  },
+  {
+    "bay_id": "Bay-D",
+    "type": "general",
+    "capacity": 4,
+    "booked_slots": [],
+    "equipment": ["workbench", "basic_tools"],
+    "compatible_categories": ["electronics", "mechanical", "structural", "biotech", "security", "power"]
+  }
+]

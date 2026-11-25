@@ -1,0 +1,44 @@
+[
+  {
+    "operator_id": "OP-001",
+    "name": "Deckard",
+    "clearance_level": 5,
+    "department": "Assembly",
+    "active": true
+  },
+  {
+    "operator_id": "OP-002",
+    "name": "Rachael",
+    "clearance_level": 3,
+    "department": "Quality",
+    "active": true
+  },
+  {
+    "operator_id": "OP-003",
+    "name": "Roy",
+    "clearance_level": 4,
+    "department": "Assembly",
+    "active": true
+  },
+  {
+    "operator_id": "OP-004",
+    "name": "Pris",
+    "clearance_level": 2,
+    "department": "Logistics",
+    "active": true
+  },
+  {
+    "operator_id": "OP-005",
+    "name": "Leon",
+    "clearance_level": 1,
+    "department": "Maintenance",
+    "active": true
+  },
+  {
+    "operator_id": "OP-006",
+    "name": "Zhora",
+    "clearance_level": 3,
+    "department": "Assembly",
+    "active": false
+  }
+]
